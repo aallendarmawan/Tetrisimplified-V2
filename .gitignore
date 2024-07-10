@@ -1,0 +1,17 @@
+/out/
+/TetrisRuntime/
+TetrisGame.zip
+
+.vscode/
+*.iml
+.idea/
+*.class
+*.log
+*.swp
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+*.tmp
